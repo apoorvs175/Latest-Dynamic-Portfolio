@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Netflix clone",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "",
+    "category": "Web development",
+    "links": {
+      "view": "https://netflix-clone-ruddy-phi-72.vercel.app/",
+      "code": "#"
+    }
+  }
+  
+]
