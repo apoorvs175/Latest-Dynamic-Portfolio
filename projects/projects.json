@@ -1,7 +1,7 @@
 [
   {
     "name": "Netflix clone",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Stream your favorite movies and shows anytime—endless entertainment with our vast library, tailored for you!",
     "image": "",
     "category": "Web development",
     "links": {
